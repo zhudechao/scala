@@ -12,3 +12,5 @@ day003 元组，数组，集合
 day004 文件操作
 
 day005 for,function进阶
+
+day006 lazy延迟执行
