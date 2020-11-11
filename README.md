@@ -18,3 +18,5 @@ day006 lazy延迟执行
 day007 数组进阶
 
 day008 map,tuple进阶
+
+day009 scala类属性和私有字段
